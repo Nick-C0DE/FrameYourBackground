@@ -1,0 +1,13 @@
+@import "scss/bootstrap.scss";
+
+header{
+    background-image: url("../image/header-banner.jpg");
+    repeat:no-repeat; 
+    position:center; 
+    flex: center; 
+    display:fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
